@@ -1,0 +1,31 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: 400;
+}
+.c1{color:#168253 !important;}
+.c2{color:#d42047 !important;}
+.bc1{background-color:#168253 !important;}
+.bc2{background-color:#d42047 !important;}
+
+h1{font-size: 40px; font-weight: 700;}
+h2{font-size: 36px; font-weight: 700;}
+h3{font-size: 32px; font-weight: 600;}
+h4{font-size: 28px; font-weight: 600;}
+h5{font-size: 24px; font-weight: 500;}
+h6{font-size: 20px; font-weight: 500;}
+
+.op:hover{
+  opacity: 0.5;
+}
+
+.bi1{
+  background-image: url('./img/flower.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
